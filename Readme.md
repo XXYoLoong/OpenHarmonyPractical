@@ -1,7 +1,5 @@
 ### Open Harmony Practical
 
-![Open Harmony Logo](https://example.com/open-harmony-logo.png)
-
 This project is dedicated to showcasing the ArkTs code for basic frontend UI interfaces in the Open Harmony framework. Currently, it includes a welcome page and a login page, with plans for periodic updates to add more features. The development environment used is DevEco Studio 3.1 Release, API Version 9 Release.
 
 #### Contents
