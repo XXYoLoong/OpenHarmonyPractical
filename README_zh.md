@@ -15,7 +15,7 @@
 
 #### 📝 简介
 
-Open Harmony UI 展示项目旨在提供 ArkTs 代码的演示，以在 DevEco Studio 环境中创建前端 UI 界面。它作为一个资源，帮助开发者理解并在他们的 DevEco Studio 项目中实现基本的 UI 元素。
+Open Harmony UI 展示项目旨在提供 ArkTs 代码的演示，以在 DevEco Studio 环境中创建前端 UI 界面。它作为一个资源，帮助开发者理解并在 DevEco Studio 项目中实现基本的 UI 元素。
 
 ---
 
