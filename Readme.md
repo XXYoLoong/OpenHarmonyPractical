@@ -33,7 +33,7 @@ The login page allows users to enter their account credentials (username and pas
 
 To use this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/open-harmony-ui-showcase.git`
+1. Clone the repository: `git clone git@github.com:YoLongChayun/OpenHarmonyPractical.git`
 2. Navigate to the project directory.
 3. Open the project in DevEco Studio.
 4. Run the project on your desired device or emulator.
