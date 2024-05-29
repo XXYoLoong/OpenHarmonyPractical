@@ -26,13 +26,13 @@ struct Welcome {
       Stack() {
         Column() {
           Swiper() {
-            Image("")// “ ”里面放你的图片路径
+            Image($r('app.media.lbt_1'))// 更改图片路径，放置轮播的图片
               .width("100%")
               .height("100%")
-            Image("")
+            Image($r('app.media.lbt_2'))
               .width("100%")
               .height("100%")
-            Image("")
+            Image($r('app.media.lbt_3'))
               .width("100%")
               .height("100%")
           }
@@ -46,7 +46,8 @@ struct Welcome {
         .height("100%")
         .justifyContent(FlexAlign.Center)
         Column(){
-          Text('放置你的欢迎语句')
+          Text('欢迎使用OpenHarmonyPractical')
+            .textAlign(TextAlign.Center)
             .fontSize(30)
             .offset({y:'-30%'})
           Button('开始体验')

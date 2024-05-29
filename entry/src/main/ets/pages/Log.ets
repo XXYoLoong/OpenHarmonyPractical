@@ -24,7 +24,7 @@ struct Log {
   build() {
     Column() {
       Column() {
-        Text("你的软件名")
+        Text("YOLOONG")
           .width("200vp")
           .height("70vp")
           .offset({ x: "0", y: "-22%" })
