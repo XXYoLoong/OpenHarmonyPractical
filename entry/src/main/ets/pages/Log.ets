@@ -93,7 +93,7 @@ struct Log {
           .fontWeight(FontWeight.Bolder)
           .backgroundColor("#8b489bff")
           .offset({ y: "-15%" })
-          .onClick(() => {router.pushUrl({ url: 'page/Main' })})// ' ' 里面放你的主页路径
+          .onClick(() => {router.pushUrl({ url: 'pages/Main' })})// ' ' 里面放你的主页路径
       }
     }
     .width("100%")
