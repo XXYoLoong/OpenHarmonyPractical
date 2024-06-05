@@ -29,7 +29,7 @@ struct Welcome {
             Image($r('app.media.lbt_1'))// 更改图片路径，放置轮播的图片
               .width("100%")
               .height("100%")
-            Image($r('app.media.lbt_2'))
+            Image($r('app.media.lbt_2'))//这里的图片仅供示例
               .width("100%")
               .height("100%")
             Image($r('app.media.lbt_3'))
@@ -46,7 +46,7 @@ struct Welcome {
         .height("100%")
         .justifyContent(FlexAlign.Center)
         Column(){
-          Text('欢迎使用OpenHarmonyPractical')
+          Text('欢迎使用OpenHarmonyPractical')//替换你想要的欢迎词
             .textAlign(TextAlign.Center)
             .fontSize(30)
             .offset({y:'-30%'})
